@@ -1,0 +1,6 @@
+http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+http://www.theverge.com/rss/full.xml
+http://www.wired.com/feed/
+http://techcrunch.com/feed/
+http://www.engadget.com/rss.xml
+http://feeds.mashable.com/Mashable
